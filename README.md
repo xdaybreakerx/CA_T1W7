@@ -8,3 +8,6 @@
 - discussed pseudocode
 
 - practiced with [Euler problem 6.](https://projecteuler.net/problem=6)
+
+- Discussed this article about [Git branches.](https://nvie.com/posts/a-successful-git-branching-model/)
+- Practiced branches, merging, and pulling on GitHub.
