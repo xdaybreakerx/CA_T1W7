@@ -11,3 +11,12 @@
 
 - Discussed this article about [Git branches.](https://nvie.com/posts/a-successful-git-branching-model/)
 - Practiced branches, merging, and pulling on GitHub.
+
+# Saturday class:
+- discussed non-primitive data types in Python:
+    - lists
+    - sets
+    - tuples
+    - dictionaries
+
+- briefly discussed APIs using [Fake Store API.](https://fakestoreapi.com/)
