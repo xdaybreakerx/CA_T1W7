@@ -20,3 +20,16 @@
     - dictionaries
 
 - briefly discussed APIs using [Fake Store API.](https://fakestoreapi.com/)
+- We then went through and reviewed two Leetcode challenges provided in a previous session. 
+    - [Challenge 1](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
+    - [Challenge 2](https://leetcode.com/problems/concatenation-of-array/)
+
+# Challenges
+    - Data Types
+    - For Loops
+    - While Loops
+    - Extension Challenges
+        - break statement
+        - continue statement
+        - enumerate
+        - nested loops
