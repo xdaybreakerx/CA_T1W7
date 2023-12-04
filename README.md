@@ -29,7 +29,14 @@
     - For Loops
     - While Loops
     - Extension Challenges
-        - break statement
-        - continue statement
-        - enumerate
-        - nested loops
+        - Break statement
+        - Continue statement
+        - Enumerate
+        - Nested loops
+    - Modules and Packages 
+        - Importing our own modules
+        - Using time, datetime, and calendar
+    - Intro to Object Oriented Programming 
+        - Class Construction 
+        - Polymorphism
+        - Encapsulation
